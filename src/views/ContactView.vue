@@ -1,6 +1,6 @@
 <template>
     <div>
-    <form action="https://formsubmit.co/kelbal@gmail.com" method="POST" target="_blank">
+    <form action="https://formsubmit.co/femininetothrive@gmail.com" method="POST" target="_blank">
   <input name="name" type="text" class="feedback-input" placeholder="Name" />   
   <input name="email" type="text" class="feedback-input" placeholder="Email" />
   <input name="subject" type="text" class="feedback-input" placeholder="Subject" />
@@ -12,20 +12,19 @@
 </template>
 
 <style scoped>
-    @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body { background:rgb(30,30,40); }
 form { max-width:420px; margin:50px auto; }
 
 .feedback-input {
-  color:white;
-  font-family: Helvetica, Arial, sans-serif;
+  color: black;
+  font-family: 'Open Sans';
   font-weight:500;
   font-size: 18px;
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #CC6666;
+  border:2px solid #985277;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -43,13 +42,13 @@ textarea {
 }
 
 [type="submit"] {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans Regular';
   width: 100%;
-  background:#CC6666;
+  background:#F1D0E5;
   border-radius:5px;
   border:0;
   cursor:pointer;
-  color:white;
+  color: black;
   font-size:24px;
   padding-top:10px;
   padding-bottom:10px;
@@ -57,5 +56,5 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-[type="submit"]:hover { background:#CC4949; }
+[type="submit"]:hover { background:#985277; }
 </style>

@@ -22,8 +22,20 @@ export default {
 </script>
 
 <style scoped>
+
+
   img {
-   width: auto;
+   width: 100%;
     height:500px;
+}
+
+.welcomeText {
+
+  font-size: 150%;
+  text-align: justify;
+
+  padding-block: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 </style>
