@@ -27,9 +27,9 @@ in-person in and around the Watford-UK area
   OR
 </div>
 <div class="box">
-  Online, Youtube
+  Online
    <div class="youtube">
-      <iframe width="400" height="200" src="https://www.youtube.com/embed/fbrLk18RdZs" title="PREGNANCY YOGA - Morning ritual with my baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="400" height="200" src="https://www.youtube.com/embed/fbrLk18RdZs" target="_blank" title="PREGNANCY YOGA - Morning ritual with my baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 </div>
